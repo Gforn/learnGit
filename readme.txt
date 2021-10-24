@@ -12,4 +12,4 @@ noting to say.
 add license.
 
 
-creating a new branch is quick.
+creating a new branch is quick AND simple.
